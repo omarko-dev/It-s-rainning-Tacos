@@ -2,8 +2,6 @@
 
 ## <h2 style="font-size:28px;">🎮 Use A and D to move the player, Use J to shoot</h2>
 
-![Gameplay Screenshot]([https://github.com/your-username/your-repository/blob/main/images/tacos-gameplay.png](https://github.com/omarko-dev/It-s-rainning-Tacos/blob/main/my%20game.png?raw=true))
-
 ## 🎮 How to Play
 
 In "It's Raining Tacos," your objective is to dodge the falling tacos! Use the arrow keys on your keyboard to move left and right. Try to avoid getting hit by the tacos for as long as possible. Can you survive the taco rain?
