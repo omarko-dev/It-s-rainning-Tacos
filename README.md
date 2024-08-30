@@ -6,7 +6,7 @@
 
 ## 🎮 How to Play
 
-In "It's Raining Tacos," your objective is to dodge the falling tacos! Use the arrow keys on your keyboard to move left and right. Try to avoid getting hit by the tacos for as long as possible while shooting avocados and chillies to rack up points. Can you survive the taco rain?
+In "It's Raining Tacos," your objective is to dodge the falling tacos! Try to avoid getting hit by the tacos for as long as possible while shooting avocados and chillies to rack up points. Can you survive the taco rain?
 
 ## 🌟 Project Overview
 
@@ -32,4 +32,4 @@ Welcome to "It's Raining Tacos," my first-ever game built with JavaScript! This 
    git clone https://github.com/hackclub/sprig/pull/2020
    ```
 2. **Run the Game:**
-   Open the `index.html` file in your favorite browser and start playing!
+   Press on TRY NOW ! button to start playing the game !
